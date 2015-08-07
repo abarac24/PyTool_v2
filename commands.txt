@@ -1,0 +1,6 @@
+#upgrade 172.16.0.222 RL80PMPZ__2023_61.sbin
+#upgrade 172.16.0.222 RDL3000_0223_442.sbin
+#upgrade 172.16.0.222 RDL3KR4_0300_010.sbin
+#upgrade 172.16.0.222 RDL3KR2_0223_441.sbin
+set maxtxpower 10
+save config
